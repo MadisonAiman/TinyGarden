@@ -1,0 +1,461 @@
+{
+ "PacificNorthwest": {
+      "january": {
+        "note": "start indoors under grow lights or in a greenhouse",
+        "crops": ["kale", "lettuce", "spinach", "chard", "arugula", "radishes", "turnips"]
+      },
+      "february": {
+        "note": "continue indoor seeding; prep outdoor beds if soil is workable",
+        "crops": ["spinach", "kale", "lettuce", "onions", "leeks", "parsley", "chard"]
+      },
+      "march": {
+        "note": "start hardening seedlings; direct sow cold-tolerant crops",
+        "crops": ["peas", "carrots", "radishes", "beets", "spinach", "lettuce", "kale"]
+      },
+      "april": {
+        "note": "direct sow hardy crops; transplant cool-weather starts",
+        "crops": ["broccoli", "cabbage", "cauliflower", "chard", "onions", "lettuce", "carrots"]
+      },
+      "may": {
+        "note": "plant summer crops outdoors after frost danger",
+        "crops": ["beans", "tomatoes", "peppers", "corn", "cucumbers", "squash", "basil"]
+      },
+      "june": {
+        "note": "plant outdoors",
+        "crops": ["beans", "basil", "cucumbers", "summer squash", "lettuce", "radishes", "arugula"]
+      },
+      "july": {
+        "note": "plant outdoors for fall harvest",
+        "crops": ["beets", "carrots", "kale", "broccoli", "cauliflower", "cabbage", "chard"]
+      },
+      "august": {
+        "note": "plant outdoors for fall harvest",
+        "crops": ["carrots", "radishes", "salad greens", "turnips", "broccoli", "brussels sprouts", "cabbage"]
+      },
+      "september": {
+        "note": "plant garlic and overwintering crops",
+        "crops": ["garlic", "spinach", "kale", "mâche", "radishes", "turnips", "mustard greens"]
+      },
+      "october": {
+        "note": "plant garlic; start greens indoors",
+        "crops": ["garlic", "lettuce", "spinach", "kale", "chard", "mizuna", "arugula"]
+      },
+      "november": {
+        "note": "grow indoors under lights",
+        "crops": ["kale", "lettuce", "spinach", "arugula", "chard", "turnips", "radishes"]
+      },
+      "december": {
+        "note": "grow indoors under lights",
+        "crops": ["kale", "lettuce", "spinach", "chard", "mizuna", "tatsoi", "mustard greens"]
+      }
+    },
+"Southwest": {
+      "january": {
+        "note": "Start indoors under grow lights or in a greenhouse",
+        "crops": ["kale", "lettuce", "spinach", "chard", "arugula", "radishes", "turnips"]
+      },
+      "february": {
+        "note": "Continue indoor seeding; prep outdoor beds if soil is workable",
+        "crops": ["spinach", "kale", "lettuce", "onions", "leeks", "parsley", "chard"]
+      },
+      "march": {
+        "note": "Start hardening seedlings; direct sow cold-tolerant crops",
+        "crops": ["peas", "carrots", "radishes", "beets", "spinach", "lettuce", "kale"]
+      },
+      "april": {
+        "note": "Direct sow hardy crops; transplant cool-weather starts",
+        "crops": ["broccoli", "cabbage", "cauliflower", "chard", "onions", "lettuce", "carrots"]
+      },
+      "may": {
+        "note": "Plant summer crops outdoors after frost danger",
+        "crops": ["beans", "tomatoes", "peppers", "corn", "cucumbers", "squash", "basil"]
+      },
+      "june": {
+        "note": "Plant outdoors",
+        "crops": ["beans", "basil", "cucumbers", "summer squash", "lettuce", "radishes", "arugula"]
+      },
+      "july": {
+        "note": "Plant outdoors for fall harvest",
+        "crops": ["beets", "carrots", "kale", "broccoli", "cauliflower", "cabbage", "chard"]
+      },
+      "august": {
+        "note": "Plant outdoors for fall harvest",
+        "crops": ["carrots", "radishes", "salad greens", "turnips", "broccoli", "brussels sprouts", "cabbage"]
+      },
+      "september": {
+        "note": "Plant garlic and overwintering crops",
+        "crops": ["garlic", "spinach", "kale", "mâche", "radishes", "turnips", "mustard greens"]
+      },
+      "october": {
+        "note": "Plant garlic; start greens indoors",
+        "crops": ["garlic", "lettuce", "spinach", "kale", "chard", "mizuna", "arugula"]
+      },
+      "november": {
+        "note": "Grow indoors under lights",
+        "crops": ["kale", "lettuce", "spinach", "arugula", "chard", "turnips", "radishes"]
+      },
+      "december": {
+        "note": "Grow indoors under lights",
+        "crops": ["kale", "lettuce", "spinach", "chard", "mizuna", "tatsoi", "mustard greens"]
+      }
+    },
+"GreatPlainsMidwest": {
+      "january": {
+        "note": "Start hardy greens indoors under lights",
+        "crops": ["kale", "lettuce", "spinach", "arugula", "chard", "radishes", "turnips"]
+      },
+      "february": {
+        "note": "Continue growing indoors; start onions and leeks from seed",
+        "crops": ["onions", "leeks", "kale", "spinach", "lettuce", "parsley", "chard"]
+      },
+      "march": {
+        "note": "Start seeds indoors for tomatoes and peppers; direct sow peas, spinach, radishes outdoors if ground is workable",
+        "crops": ["peas", "spinach", "radishes", "lettuce", "broccoli", "cabbage", "tomatoes"]
+      },
+      "april": {
+        "note": "Direct sow hardy crops; transplant early starts",
+        "crops": ["onions", "carrots", "beets", "lettuce", "kale", "chard", "potatoes"]
+      },
+      "may": {
+        "note": "Plant warm-season crops outdoors after last frost",
+        "crops": ["corn", "beans", "squash", "cucumbers", "peppers", "tomatoes", "basil"]
+      },
+      "june": {
+        "note": "Succession sow summer crops; start fall brassicas indoors",
+        "crops": ["green beans", "corn", "cucumbers", "zucchini", "okra", "melons", "dill"]
+      },
+      "july": {
+        "note": "Start fall crops outdoors or indoors in trays",
+        "crops": ["carrots", "beets", "turnips", "broccoli", "kale", "cauliflower", "chard"]
+      },
+      "august": {
+        "note": "Plant fall crops outdoors early in month",
+        "crops": ["spinach", "lettuce", "radishes", "kale", "turnips", "chard", "mustard greens"]
+      },
+      "september": {
+        "note": "Last chance for cool-season planting; cover crops",
+        "crops": ["radishes", "spinach", "mâche", "arugula", "turnips", "kale", "cover crops"]
+      },
+      "october": {
+        "note": "Plant garlic; extend season with cold frames",
+        "crops": ["garlic", "spinach", "lettuce", "kale", "arugula", "chard", "mâche"]
+      },
+      "november": {
+        "note": "Grow greens indoors; harvest fall crops",
+        "crops": ["kale", "lettuce", "spinach", "turnips", "chard", "radishes", "arugula"]
+      },
+      "december": {
+        "note": "Grow leafy greens indoors with lights",
+        "crops": ["kale", "lettuce", "spinach", "tatsoi", "mizuna", "arugula", "chard"]
+      }
+    },
+  
+"SoutheastSouth": {
+      "january": {
+        "note": "Grow cool-season crops outdoors; start seeds indoors for early spring",
+        "crops": ["collards", "spinach", "lettuce", "turnips", "radishes", "kale", "mustard greens"]
+      },
+      "february": {
+        "note": "Start tomatoes and peppers indoors; direct sow hardy greens",
+        "crops": ["onions", "spinach", "lettuce", "chard", "kale", "cabbage", "parsley"]
+      },
+      "march": {
+        "note": "Transplant early crops; sow spring vegetables outdoors",
+        "crops": ["broccoli", "cabbage", "carrots", "peas", "beets", "potatoes", "chard"]
+      },
+      "april": {
+        "note": "Plant summer crops outdoors",
+        "crops": ["beans", "corn", "squash", "tomatoes", "peppers", "cucumbers", "melons"]
+      },
+      "may": {
+        "note": "Continue planting summer crops; mulch to retain moisture",
+        "crops": ["okra", "sweet potatoes", "eggplant", "melons", "peppers", "basil", "zucchini"]
+      },
+      "june": {
+        "note": "Harvest early crops; succession plant beans and corn",
+        "crops": ["okra", "beans", "eggplant", "peppers", "corn", "watermelon", "cantaloupe"]
+      },
+      "july": {
+        "note": "Prepare for fall garden; plant heat-tolerant greens",
+        "crops": ["okra", "southern peas", "sweet potatoes", "collards", "mustard greens", "basil", "malabar spinach"]
+      },
+      "august": {
+        "note": "Start fall garden with cool-season crops",
+        "crops": ["broccoli", "cabbage", "cauliflower", "collards", "carrots", "turnips", "kale"]
+      },
+      "september": {
+        "note": "Plant fall greens; sow root crops for mild winters",
+        "crops": ["spinach", "lettuce", "radishes", "beets", "kale", "mustard greens", "turnips"]
+      },
+      "october": {
+        "note": "Continue planting cool-season crops",
+        "crops": ["garlic", "onions", "spinach", "chard", "lettuce", "kale", "carrots"]
+      },
+      "november": {
+        "note": "Harvest greens; continue indoor starts",
+        "crops": ["collards", "spinach", "lettuce", "radishes", "chard", "arugula", "turnips"]
+      },
+      "december": {
+        "note": "Grow greens indoors or in protected beds",
+        "crops": ["spinach", "lettuce", "kale", "mizuna", "tatsoi", "arugula", "mustard greens"]
+      }
+    },
+  
+"NewEnglandNortheast": {
+      "january": {
+        "note": "Start hardy greens indoors with grow lights",
+        "crops": ["kale", "lettuce", "spinach", "arugula", "chard", "mizuna", "turnips"]
+      },
+      "february": {
+        "note": "Begin seed starting indoors for onions and leeks",
+        "crops": ["onions", "leeks", "kale", "chard", "spinach", "parsley", "lettuce"]
+      },
+      "march": {
+        "note": "Start tomatoes, peppers indoors; sow cold-hardy crops outdoors if soil permits",
+        "crops": ["peas", "spinach", "radishes", "lettuce", "broccoli", "cabbage", "kale"]
+      },
+      "april": {
+        "note": "Direct sow root crops; transplant cold-hardy seedlings",
+        "crops": ["carrots", "beets", "chard", "onions", "cabbage", "lettuce", "spinach"]
+      },
+      "may": {
+        "note": "Transplant warm-season crops after frost",
+        "crops": ["tomatoes", "peppers", "squash", "corn", "beans", "cucumbers", "basil"]
+      },
+      "june": {
+        "note": "Direct sow beans and succession plant greens",
+        "crops": ["green beans", "zucchini", "corn", "melons", "basil", "lettuce", "carrots"]
+      },
+      "july": {
+        "note": "Plant for fall harvest; continue harvesting summer crops",
+        "crops": ["beets", "carrots", "turnips", "kale", "broccoli", "cauliflower", "chard"]
+      },
+      "august": {
+        "note": "Start fall greens and root crops",
+        "crops": ["spinach", "radishes", "arugula", "lettuce", "kale", "turnips", "mustard greens"]
+      },
+      "september": {
+        "note": "Plant overwintering greens and garlic",
+        "crops": ["garlic", "spinach", "mâche", "lettuce", "radishes", "turnips", "kale"]
+      },
+      "october": {
+        "note": "Cover crops and grow greens indoors",
+        "crops": ["arugula", "mizuna", "tatsoi", "kale", "lettuce", "spinach", "chard"]
+      },
+      "november": {
+        "note": "Harvest final crops; grow greens indoors under lights",
+        "crops": ["kale", "spinach", "lettuce", "chard", "arugula", "turnips", "radishes"]
+      },
+      "december": {
+        "note": "Grow leafy greens indoors with lights or hydroponics",
+        "crops": ["spinach", "lettuce", "kale", "mizuna", "tatsoi", "arugula", "mustard greens"]
+      }
+    },
+
+"PacificCoast": {
+      "january": {
+        "note": "Grow cool-season crops outdoors or start greens indoors",
+        "crops": ["lettuce", "kale", "chard", "spinach", "radishes", "arugula", "turnips"]
+      },
+      "february": {
+        "note": "Start tomatoes and peppers indoors; direct sow greens",
+        "crops": ["onions", "spinach", "chard", "lettuce", "peas", "carrots", "beets"]
+      },
+      "march": {
+        "note": "Plant hardy crops outdoors; transplant indoor starts",
+        "crops": ["broccoli", "cabbage", "kale", "potatoes", "carrots", "chard", "lettuce"]
+      },
+      "april": {
+        "note": "Plant spring crops outdoors; continue transplants",
+        "crops": ["beans", "squash", "corn", "cucumbers", "tomatoes", "peppers", "basil"]
+      },
+      "may": {
+        "note": "Plant heat-loving crops outdoors; succession sow greens",
+        "crops": ["melons", "okra", "zucchini", "eggplant", "sweet corn", "basil", "green beans"]
+      },
+      "june": {
+        "note": "Continue planting summer crops; water deeply",
+        "crops": ["tomatoes", "cucumbers", "corn", "peppers", "beans", "zucchini", "chard"]
+      },
+      "july": {
+        "note": "Harvest early crops; plant fall brassicas indoors",
+        "crops": ["carrots", "beets", "kale", "broccoli", "collards", "lettuce", "radishes"]
+      },
+      "august": {
+        "note": "Start fall crops; begin planting second season veggies",
+        "crops": ["spinach", "lettuce", "chard", "broccoli", "kale", "turnips", "peas"]
+      },
+      "september": {
+        "note": "Plant fall and overwintering crops",
+        "crops": ["garlic", "onions", "kale", "spinach", "mâche", "arugula", "chard"]
+      },
+      "october": {
+        "note": "Continue planting cool-weather crops; start greens indoors",
+        "crops": ["lettuce", "spinach", "turnips", "radishes", "chard", "mizuna", "kale"]
+      },
+      "november": {
+        "note": "Grow cool-weather greens outdoors or indoors",
+        "crops": ["spinach", "lettuce", "arugula", "chard", "mustard greens", "kale", "turnips"]
+      },
+      "december": {
+        "note": "Harvest winter greens; grow more indoors",
+        "crops": ["kale", "lettuce", "chard", "tatsoi", "spinach", "arugula", "mizuna"]
+      }
+    },
+"MountainWest": {
+  "january": {
+    "note": "Start hardy greens indoors under grow lights",
+    "crops": ["kale", "spinach", "lettuce", "chard", "arugula", "mustard greens", "radishes"]
+  },
+  "february": {
+    "note": "Begin seed starting for onions, leeks, and hardy greens",
+    "crops": ["onions", "leeks", "kale", "chard", "spinach", "parsley", "lettuce"]
+  },
+  "march": {
+    "note": "Start warm-season crops indoors; direct sow hardy greens if soil allows",
+    "crops": ["tomatoes", "peppers", "broccoli", "cabbage", "peas", "spinach", "radishes"]
+  },
+  "april": {
+    "note": "Transplant cool-season starts; direct sow carrots and beets",
+    "crops": ["carrots", "beets", "lettuce", "chard", "kale", "onions", "potatoes"]
+  },
+  "may": {
+    "note": "Plant warm-season crops after last frost date",
+    "crops": ["beans", "corn", "squash", "cucumbers", "tomatoes", "peppers", "basil"]
+  },
+  "june": {
+    "note": "Succession sow fast-growing crops; keep summer veggies thriving",
+    "crops": ["green beans", "zucchini", "cucumbers", "lettuce", "basil", "chard", "carrots"]
+  },
+  "july": {
+    "note": "Start fall brassicas indoors; continue harvesting summer crops",
+    "crops": ["broccoli", "cauliflower", "cabbage", "kale", "beets", "radishes", "lettuce"]
+  },
+  "august": {
+    "note": "Direct sow fall greens; transplant fall brassicas",
+    "crops": ["spinach", "kale", "lettuce", "turnips", "chard", "arugula", "mustard greens"]
+  },
+  "september": {
+    "note": "Plant overwintering crops; start harvesting fall vegetables",
+    "crops": ["garlic", "spinach", "lettuce", "radishes", "turnips", "kale", "mâche"]
+  },
+  "october": {
+    "note": "Cover crops or move tender plants indoors",
+    "crops": ["spinach", "chard", "lettuce", "kale", "arugula", "radishes", "mizuna"]
+  },
+  "november": {
+    "note": "Grow greens indoors under lights; protect cold frames",
+    "crops": ["kale", "spinach", "lettuce", "chard", "tatsoi", "mustard greens", "arugula"]
+  },
+  "december": {
+    "note": "Focus on indoor greens and planning for spring",
+    "crops": ["lettuce", "spinach", "kale", "tatsoi", "chard", "parsley", "mizuna"]
+  }
+},
+
+"Hawaii": {
+      "january": {
+        "note": "Plant year-round crops; ideal for leafy greens and root veggies",
+        "crops": ["lettuce", "kale", "spinach", "radishes", "eggplant", "tomatoes", "sweet potatoes"]
+      },
+      "february": {
+        "note": "Plant tropical veggies; continue leafy greens and roots",
+        "crops": ["okra", "peppers", "lettuce", "beets", "carrots", "green beans", "kale"]
+      },
+      "march": {
+        "note": "Great month for fruiting crops and herbs",
+        "crops": ["tomatoes", "basil", "eggplant", "cucumbers", "chard", "lettuce", "corn"]
+      },
+      "april": {
+        "note": "Plant summer crops and continue greens",
+        "crops": ["sweet potatoes", "okra", "beans", "squash", "peppers", "spinach", "basil"]
+      },
+      "may": {
+        "note": "Warm season ideal for continuous planting",
+        "crops": ["tomatoes", "eggplant", "corn", "cucumbers", "lettuce", "peppers", "chard"]
+      },
+      "june": {
+        "note": "Maintain tropical crops and succession sow",
+        "crops": ["beans", "okra", "squash", "lettuce", "spinach", "sweet potatoes", "tomatoes"]
+      },
+      "july": {
+        "note": "Mid-year ideal for root and fruit crops",
+        "crops": ["carrots", "beets", "cucumbers", "corn", "basil", "eggplant", "lettuce"]
+      },
+      "august": {
+        "note": "Continue warm-season planting and greens",
+        "crops": ["okra", "peppers", "beans", "spinach", "kale", "lettuce", "radishes"]
+      },
+      "september": {
+        "note": "Transition to fall crops if applicable; keep succession planting",
+        "crops": ["tomatoes", "chard", "carrots", "spinach", "eggplant", "sweet potatoes", "lettuce"]
+      },
+      "october": {
+        "note": "Excellent for leafy greens and herbs",
+        "crops": ["lettuce", "kale", "spinach", "mustard greens", "radishes", "beets", "parsley"]
+      },
+      "november": {
+        "note": "Continue planting cool-tolerant tropical crops",
+        "crops": ["lettuce", "chard", "kale", "spinach", "beans", "carrots", "turnips"]
+      },
+      "december": {
+        "note": "Great for greens and herbs; rotate crops",
+        "crops": ["lettuce", "arugula", "mizuna", "basil", "spinach", "chard", "radishes"]
+      }
+    },
+  
+"Alaska": {
+      "january": {
+        "note": "Start cold-hardy greens indoors under lights",
+        "crops": ["kale", "spinach", "lettuce", "chard", "arugula", "radishes", "mustard greens"]
+      },
+      "february": {
+        "note": "Begin indoor starts for onions, leeks, hardy greens",
+        "crops": ["onions", "leeks", "parsley", "kale", "chard", "spinach", "lettuce"]
+      },
+      "march": {
+        "note": "Start tomatoes, cabbage, broccoli indoors",
+        "crops": ["tomatoes", "broccoli", "cabbage", "kale", "chard", "spinach", "lettuce"]
+      },
+      "april": {
+        "note": "Continue indoor starts; harden off early transplants",
+        "crops": ["cauliflower", "brussels sprouts", "onions", "leeks", "kale", "chard", "beets"]
+      },
+      "may": {
+        "note": "Transplant cold-hardy crops outdoors; sow root veggies",
+        "crops": ["carrots", "beets", "peas", "potatoes", "chard", "kale", "broccoli"]
+      },
+      "june": {
+        "note": "Main planting time for warm-season crops",
+        "crops": ["beans", "zucchini", "cucumbers", "lettuce", "radishes", "spinach", "chard"]
+      },
+      "july": {
+        "note": "Succession sow fast-growing crops; harvest early veggies",
+        "crops": ["lettuce", "radishes", "turnips", "beets", "carrots", "spinach", "peas"]
+      },
+      "august": {
+        "note": "Start fall crops; cover crops for protection",
+        "crops": ["kale", "spinach", "lettuce", "turnips", "radishes", "mâche", "mustard greens"]
+      },
+      "september": {
+        "note": "Harvest main crops; cover beds or move indoors",
+        "crops": ["potatoes", "carrots", "beets", "kale", "lettuce", "chard", "turnips"]
+      },
+      "october": {
+        "note": "Grow greens indoors; harvest storage crops",
+        "crops": ["spinach", "lettuce", "kale", "chard", "radishes", "arugula", "mizuna"]
+      },
+      "november": {
+        "note": "Indoor growing under lights for hardy greens",
+        "crops": ["kale", "spinach", "lettuce", "chard", "mustard greens", "tatsoi", "mizuna"]
+      },
+      "december": {
+        "note": "Grow leafy greens indoors; plan next season",
+        "crops": ["kale", "spinach", "lettuce", "arugula", "chard", "tatsoi", "parsley"]
+      }
+    }
+}
+  
+  
+
+  
