@@ -130,86 +130,240 @@
     "clover": {
         "companions": ["apple", "brassicas", "corn", "lettuce", "spinach"],
         "avoid": ["none"]
-      },
-      "corn": {
+    },
+    "corn": {
         "companions": ["beans", "cucumber", "squash", "melons", "peas"],
         "avoid": ["tomato", "celery"]
-      },
-      "dill": {
+    },
+    "dill": {
         "companions": ["cabbage", "corn", "lettuce", "onion", "cucumber"],
         "avoid": ["carrot", "tomato"]
-      },
-      "fennel": {
+    },
+    "fennel": {
         "companions": [],
         "avoid": ["almost all other plants"] 
-      },
-      "kohlrabi": {
+    },
+    "kohlrabi": {
         "companions": ["beet", "onion", "dill", "mint", "rosemary"],
         "avoid": ["pole beans", "tomato"]
-      },
-      "leek": {
+    },
+    "leek": {
         "companions": ["carrot", "celery", "onion", "lettuce", "beet"],
         "avoid": ["beans", "peas"]
-      },
-      "lavender": {
+    },
+    "lavender": {
         "companions": ["cabbage", "cauliflower", "rosemary", "thyme", "rose"],
         "avoid": ["mint"]
-      },
-      "marigold": {
+    },
+    "marigold": {
         "companions": ["tomato", "pepper", "potato", "eggplant", "beans"],
         "avoid": ["none"]
-      },
-      "mint": {
+    },
+    "mint": {
         "companions": ["cabbage", "broccoli", "brussels sprouts", "tomato"],
         "avoid": ["parsley", "chamomile"]
-      },
-      "oregano": {
+    },
+    "oregano": {
         "companions": ["pepper", "tomato", "eggplant", "basil", "marjoram"],
         "avoid": ["none"]
-      },
-      "parsley": {
+    },
+    "parsley": {
         "companions": ["tomato", "carrot", "asparagus", "onion", "chili pepper"],
         "avoid": ["mint", "lettuce"]
-      },
-      "parsnip": {
+    },
+    "parsnip": {
         "companions": ["onion", "garlic", "pepper", "radish", "lettuce"],
         "avoid": ["carrot", "celery"]
-      },
-      "pumpkin": {
+    },
+    "pumpkin": {
         "companions": ["corn", "beans", "marigold", "radish", "nasturtium"],
         "avoid": ["potato"]
-      },
-      "rosemary": {
+    },
+    "rosemary": {
         "companions": ["beans", "cabbage", "carrot", "sage", "lavender"],
         "avoid": ["basil"]
-      },
-      "sage": {
+    },
+    "sage": {
         "companions": ["rosemary", "cabbage", "carrot", "strawberry", "tomato"],
         "avoid": ["cucumber", "basil"]
-      },
-      "strawberry": {
-        "companions": ["spinach", "thyme", "borage", "lettuce", "bean"],
-        "avoid": ["cabbage", "broccoli", "kale"]
-      },
-      "sunflower": {
+    },
+    "sunflower": {
         "companions": ["corn", "pumpkin", "cucumber", "squash", "melon"],
         "avoid": ["potato", "bean"]
-      },
-      "tarragon": {
+    },
+    "tarragon": {
         "companions": ["eggplant", "tomato", "pepper", "most vegetables"],
         "avoid": ["none"]
-      },
-      "thyme": {
+    },
+    "thyme": {
         "companions": ["cabbage", "eggplant", "potato", "strawberry", "rosemary"],
         "avoid": ["none"]
-      },
-      "turnip": {
+    },
+    "turnip": {
         "companions": ["pea", "onion", "radish", "lettuce", "mint"],
         "avoid": ["potato"]
-      },
-      "zucchini": {
+    },
+    "zucchini": {
         "companions": ["bean", "corn", "radish", "borage", "marigold"],
         "avoid": ["potato"]
+    },
+    "strawberry": {
+    "companions": ["borage", "lettuce", "spinach", "thyme", "beans"],
+    "avoid": ["cabbage", "broccoli"]
+    },
+    "blueberry": {
+    "companions": ["thyme", "basil", "mint", "strawberry", "rhododendron"],
+    "avoid": ["tomato", "cabbage"]
+    },
+    "raspberry": {
+      "companions": ["garlic", "chives", "yarrow", "tansy", "marigold"],
+      "avoid": ["potato", "strawberry"]
+    },
+    "blackberry": {
+      "companions": ["mint", "garlic", "onion", "chives", "marigold"],
+      "avoid": ["tomato", "asparagus"]
+    },
+    "grape": {
+      "companions": ["oregano", "hyssop", "beans", "radishes", "clover"],
+      "avoid": ["cabbage", "radish"]
+    },
+    "watermelon": {
+      "companions": ["nasturtium", "radishes", "corn", "marigold", "mint"],
+      "avoid": ["potato", "cucumber"]
+    },
+    "cantaloupe": {
+      "companions": ["radishes", "lettuce", "marigold", "corn", "borage"],
+      "avoid": ["potato", "squash"]
+      },
+      "honeydew": {
+        "companions": ["basil", "radishes", "marigold", "lettuce", "oregano"],
+        "avoid": ["cucumber", "potato"]
+      },
+      "apple": {
+        "companions": ["chives", "garlic", "nasturtium", "dill", "comfrey"],
+        "avoid": ["potato", "carrot"]
+      },
+      "pear": {
+        "companions": ["marigold", "yarrow", "chives", "mint", "dill"],
+        "avoid": ["walnut", "mustard"]
+      },
+      "peach": {
+        "companions": ["garlic", "chives", "tansy", "basil", "comfrey"],
+        "avoid": ["potato", "tomato"]
+      },
+      "plum": {
+        "companions": ["dill", "comfrey", "chamomile", "garlic", "chives"],
+        "avoid": ["cabbage", "tomato"]
+      },
+      "cherry": {
+        "companions": ["garlic", "marigold", "basil", "comfrey", "dill"],
+        "avoid": ["tomato", "beets"]
+      },
+      "fig": {
+        "companions": ["comfrey", "chamomile", "nasturtium", "garlic", "dill"],
+        "avoid": ["grass", "potato"]
+      },
+      "persimmon": {
+        "companions": ["borage", "comfrey", "marigold", "garlic", "lemon balm"],
+        "avoid": ["walnut", "potato"]
+      },
+      "banana": {
+        "companions": ["sweet potato", "ginger", "comfrey", "beans", "taro"],
+        "avoid": ["cabbage", "onion"]
+      },
+      "pineapple": {
+        "companions": ["comfrey", "legumes", "spinach", "basil", "marigold"],
+        "avoid": ["potato", "mint"]
+      },
+      "papaya": {
+        "companions": ["lemongrass", "marigold", "basil", "beans", "squash"],
+        "avoid": ["pepper", "onion"]
+      },
+      "avocado": {
+        "companions": ["comfrey", "borage", "garlic", "beans", "lemongrass"],
+        "avoid": ["fennel", "walnut"]
+      },
+      "pomegranate": {
+        "companions": ["mint", "basil", "comfrey", "chives", "dill"],
+        "avoid": ["corn", "cabbage"]
+      },
+      "kiwi": {
+        "companions": ["nasturtium", "clover", "comfrey", "borage", "beans"],
+        "avoid": ["potato", "tomato"]
+      },
+      "mulberry": {
+        "companions": ["comfrey", "borage", "garlic", "mint", "thyme"],
+        "avoid": ["tomato", "onion"]
+      },
+      "currant": {
+        "companions": ["mint", "chives", "marigold", "yarrow", "comfrey"],
+        "avoid": ["fennel", "onion"]
+      },
+      "elderberry": {
+        "companions": ["borage", "yarrow", "comfrey", "garlic", "mint"],
+        "avoid": ["carrot", "potato"]
+      },
+      "cranberry": {
+        "companions": ["mint", "thyme", "basil", "chives", "lettuce"],
+        "avoid": ["onion", "cabbage"]
+      },
+
+      "mango": {
+        "companions": ["lemongrass", "comfrey", "garlic", "basil", "marigold"],
+        "avoid": ["onion", "mustard"]
+      },
+      "passionfruit": {
+        "companions": ["nasturtium", "basil", "marigold", "beans", "lemongrass"],
+        "avoid": ["fennel", "potato"]
+      },
+      "guava": {
+        "companions": ["marigold", "basil", "garlic", "mint", "lemon balm"],
+        "avoid": ["onion", "fennel"]
+      },
+      "dragonfruit": {
+        "companions": ["basil", "beans", "garlic", "mint", "comfrey"],
+        "avoid": ["potato", "onion"]
+      },
+      "lime": {
+        "companions": ["chives", "garlic", "basil", "marigold", "nasturtium"],
+        "avoid": ["peas", "beans"]
+      },
+      "lemon": {
+        "companions": ["lavender", "thyme", "basil", "chives", "nasturtium"],
+        "avoid": ["potato", "pepper"]
+      },
+      "orange": {
+        "companions": ["borage", "garlic", "marigold", "basil", "oregano"],
+        "avoid": ["fennel", "onion"]
+      },
+
+      "apricot": {
+        "companions": ["marigold", "comfrey", "basil", "chamomile", "mint"],
+        "avoid": ["tomato", "pepper"]
+      },
+      "nectarine": {
+        "companions": ["chives", "borage", "comfrey", "garlic", "dill"],
+        "avoid": ["potato", "onion"]
+      },
+      "pluot": {
+        "companions": ["basil", "comfrey", "mint", "yarrow", "marigold"],
+        "avoid": ["onion", "cabbage"]
+      },
+      "tamarind": {
+        "companions": ["mint", "comfrey", "basil", "lemongrass", "garlic"],
+        "avoid": ["pepper", "mustard"]
+      },
+      "olive": {
+        "companions": ["thyme", "oregano", "garlic", "basil", "comfrey"],
+        "avoid": ["onion", "fennel"]
+      },
+      "starfruit": {
+        "companions": ["marigold", "mint", "borage", "basil", "thyme"],
+        "avoid": ["potato", "onion"]
+      },
+      "jackfruit": {
+        "companions": ["ginger", "sweet potato", "mint", "lemongrass", "comfrey"],
+        "avoid": ["cabbage", "onion"]
       }
     }
     
