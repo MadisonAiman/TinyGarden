@@ -14,8 +14,10 @@ Tiny Garden is a mobile-first companion planting and regional crop application b
 # Tech Stack: 
 
 
-HTML 
+HTML
+
 CSS
+
 JavaScript
 
 # Planned for Release 2.0: 
